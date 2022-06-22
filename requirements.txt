@@ -13,7 +13,7 @@ JPype1==0.7.1
 konlpy==0.5.2
 lxml==4.4.2
 mecab-python3==0.996.3
-numpy==1.18.1
+numpy==1.22.0
 oauthlib==3.1.0
 pybind11==2.4.3
 PySocks==1.7.1
